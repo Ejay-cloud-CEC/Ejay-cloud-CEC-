@@ -21,4 +21,4 @@
 #CloudFromCP #AWSCebu #FutureCloudEngineer
 
 ---
-*"Started with PisoWifi. Ending with IT Park."*
+"Started with PisoWifi. Ending with IT Park."
