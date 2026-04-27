@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/0391ca79-032a-4a39-a7d8-9c27ad320de4/public_url">
-    <img src="badge.png" width="180" alt="AWS Cloud 101">
+    <img src="aws-educate-introduction-to-cloud-101-training-badg (1).png" width="180" alt="AWS Cloud 101">
   </a>
 </p>
 
