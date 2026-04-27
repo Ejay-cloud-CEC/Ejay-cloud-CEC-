@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/0391ca79-032a-4a39-a7d8-9c27ad320de4/public_url">
-    <img src="badges/aws-cloud101.png" width="180" alt="AWS Educate Cloud Computing 101 Badge">
+    <img src="badges/aws-cloud101.png" width="180" alt="AWS Educate Cloud Computing 101">
   </a>
 </p>
 
@@ -17,4 +17,10 @@
 Hello Cloud World! 👋  
 **Ejay | Future Cloud Support Engineer from Cebu 🇵🇭**
 
-☁️ Learning Cloud Engineering with just my Android phone...
+☁️ Learning Cloud Engineering with just my Android phone — proving you don’t need a laptop to start in tech.  
+Currently mastering AWS foundations and documenting my journey from zero to Cloud Pro.
+
+🛠️ **Skills Learning:**  
+- **AWS:** EC2, S3, IAM, VPC ✅ *Certified Training*
+- **Linux:** Termux, nano, bash commands  
+- **Cloud Support:** Ticketing, troubleshooting
