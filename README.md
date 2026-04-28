@@ -14,7 +14,6 @@
 
 ---
 
-Hello Cloud World! 👋  
-**Ejay | Future Cloud Support Engineer from Cebu 🇵🇭**
 
-☁️ Learning Cloud Engineering with just my Android phone — proving you don’t need a laptop to start in tech.
+<p align="center">
+   <a
