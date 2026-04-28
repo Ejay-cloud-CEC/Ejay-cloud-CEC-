@@ -1,4 +1,4 @@
-## AWS Educate: Cloud 101 Trained
+## AWS Educate: Cloud Computing 101-Trained
 
 <p align="center">
   <a href="https://www.credly.com/badges/0391ca79-032a-4a39-a7d8-9c27ad320de4/public_url">
