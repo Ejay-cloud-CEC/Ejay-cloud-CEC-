@@ -26,3 +26,16 @@
 **Skills Verified:** Amazon S3, Amazon EBS, Amazon EFS, Storage Classes, Data Durability, Cloud Storage Fundamentals
 
 ---
+---
+
+## AWS Educate: Getting Started with Compute - Trained
+<p align="center">
+  <a href="https://www.credly.com/badges/6deee524-6b46-4770-959a-40d583150e3d/public_url">
+    <img src="aws-educate-getting-started-with-compute-training-b.png" width="180" alt="AWS Educate Getting Started with Compute">
+  </a>
+</p>
+Issued to: Ejay Ardimer | April 29, 2026
+[Verify on Credly](https://www.credly.com/badges/6deee524-6b46-4770-959a-40d583150e3d/public_url)
+**Skills Verified:** Amazon EC2, AWS Lambda, Amazon ECS, Amazon EKS, Compute Services, Serverless Architecture
+
+---
